@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/TextAnalysisOnline/static/js/main.acc2ec54.js",
+    "index.html": "/TextAnalysisOnline/index.html",
+    "main.acc2ec54.js.map": "/TextAnalysisOnline/static/js/main.acc2ec54.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.acc2ec54.js"
+  ]
+}
